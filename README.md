@@ -5,26 +5,27 @@ Explore the factors influencing life expectancy across various regions. Visualiz
 **https://app.powerbi.com/view?r=eyJrIjoiNDMyMWU3ZjItMzY0MC00ZmE2LTk2YjQtYmVmMjE1ZTk5OGVjIiwidCI6IjU0NDdhOGRlLWE4OTctNGZlNS05ZjZhLTU2MTMxZjc0ZTZmMSJ9**
 2. Airport Analysis:
 Dive into the world of aviation with comprehensive airport analysis. Uncover patterns in passenger traffic, flight schedules, and airport efficiency, leveraging Power BI's robust visualization capabilities.
+**https://app.powerbi.com/view?r=eyJrIjoiNmY2YjQ2NTAtYWM0Yy00YjE3LTg0MjAtMDA3NmM5MjgyMmJlIiwidCI6IjU0NDdhOGRlLWE4OTctNGZlNS05ZjZhLTU2MTMxZjc0ZTZmMSJ9**
 
-3. Global Health Expenditure:
+4. Global Health Expenditure:
 Gain insights into global health expenditure trends. Visualize spending patterns, analyze allocations across regions, and identify areas for potential improvement in healthcare financial management.
 
-4. Cashflow Analysis:
+5. Cashflow Analysis:
 Navigate through the dynamics of cash flow in a business context. Utilize Power BI to create interactive dashboards, offering a real-time view of cash flow trends, and enabling informed financial decision-making.
 
-5. Loan Application:
+6. Loan Application:
 Explore the loan application process, analyze approval rates, and rejection reasons, and optimize the workflow. Leverage Power BI to visualize and streamline the loan application journey.
 
-6. Customer Retention:
+7. Customer Retention:
 Delve into customer retention strategies. Analyze customer churn rates, identify key factors influencing customer loyalty, and develop actionable insights to enhance retention efforts.
 
-7. Cash Flow Analysis (Again):
+8. Cash Flow Analysis (Again):
 Revisit cash flow analysis, this time with a different focus. Explore specific industry or business scenarios, providing a more targeted understanding of cash flow dynamics.
 
-8. Construction and Man Hours:
+9. Construction and Man Hours:
 Analyze construction projects and man-hour allocation. Visualize project timelines, and resource utilization, and optimize workforce allocation for enhanced project efficiency.
 
-9. Hollywood Market Analysis:
+10. Hollywood Market Analysis:
 Uncover trends in the Hollywood entertainment industry. Analyze box office performance, and audience preferences, and identify factors contributing to the success of movies.
 
 Usage Guidelines:
