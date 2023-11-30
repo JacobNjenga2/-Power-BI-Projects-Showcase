@@ -2,7 +2,7 @@
 Welcome to the Power BI Projects Showcase repository, a collection of insightful and diverse data analysis projects aimed at showcasing the versatility and power of Microsoft Power BI. Each project within this repository offers unique perspectives on different domains, providing valuable insights and actionable intelligence.
 1. Life Expectancy Project:
 Explore the factors influencing life expectancy across various regions. Visualize trends, analyze correlations, and gain a deeper understanding of the determinants of life expectancy.
-https://app.powerbi.com/view?r=eyJrIjoiNDMyMWU3ZjItMzY0MC00ZmE2LTk2YjQtYmVmMjE1ZTk5OGVjIiwidCI6IjU0NDdhOGRlLWE4OTctNGZlNS05ZjZhLTU2MTMxZjc0ZTZmMSJ9
+**https://app.powerbi.com/view?r=eyJrIjoiNDMyMWU3ZjItMzY0MC00ZmE2LTk2YjQtYmVmMjE1ZTk5OGVjIiwidCI6IjU0NDdhOGRlLWE4OTctNGZlNS05ZjZhLTU2MTMxZjc0ZTZmMSJ9**
 2. Airport Analysis:
 Dive into the world of aviation with comprehensive airport analysis. Uncover patterns in passenger traffic, flight schedules, and airport efficiency, leveraging Power BI's robust visualization capabilities.
 
