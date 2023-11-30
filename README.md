@@ -19,14 +19,15 @@ Explore the loan application process, analyze approval rates, and rejection reas
 
 8. Customer Retention:
 Delve into customer retention strategies. Analyze customer churn rates, identify key factors influencing customer loyalty, and develop actionable insights to enhance retention efforts.
+**https://app.powerbi.com/view?r=eyJrIjoiZWFiYzgzYzAtNTViYS00NWIyLTg1YTktYmQ2NWNmMGQ5NWZkIiwidCI6IjU0NDdhOGRlLWE4OTctNGZlNS05ZjZhLTU2MTMxZjc0ZTZmMSJ9**
 
-9. Cash Flow Analysis (Again):
+10. Cash Flow Analysis (Again):
 Revisit cash flow analysis, this time with a different focus. Explore specific industry or business scenarios, providing a more targeted understanding of cash flow dynamics.
 
-10. Construction and Man Hours:
+11. Construction and Man Hours:
 Analyze construction projects and man-hour allocation. Visualize project timelines, and resource utilization, and optimize workforce allocation for enhanced project efficiency.
 
-11. Hollywood Market Analysis:
+12. Hollywood Market Analysis:
 Uncover trends in the Hollywood entertainment industry. Analyze box office performance, and audience preferences, and identify factors contributing to the success of movies.
 
 Usage Guidelines:
