@@ -15,17 +15,18 @@ Navigate through the dynamics of cash flow in a business context. Utilize Power 
 **https://app.powerbi.com/view?r=eyJrIjoiZGVkYWQxY2YtYzc5YS00MThjLTg2Y2UtN2RiODM2NjRiNGViIiwidCI6IjU0NDdhOGRlLWE4OTctNGZlNS05ZjZhLTU2MTMxZjc0ZTZmMSJ9**
 6. Loan Application:
 Explore the loan application process, analyze approval rates, and rejection reasons, and optimize the workflow. Leverage Power BI to visualize and streamline the loan application journey.
+**https://app.powerbi.com/view?r=eyJrIjoiZjkyZmRiNDQtYzhkOC00NGE5LTlmYzQtODU0ZDVlNTdmMTNmIiwidCI6IjU0NDdhOGRlLWE4OTctNGZlNS05ZjZhLTU2MTMxZjc0ZTZmMSJ9**
 
-7. Customer Retention:
+8. Customer Retention:
 Delve into customer retention strategies. Analyze customer churn rates, identify key factors influencing customer loyalty, and develop actionable insights to enhance retention efforts.
 
-8. Cash Flow Analysis (Again):
+9. Cash Flow Analysis (Again):
 Revisit cash flow analysis, this time with a different focus. Explore specific industry or business scenarios, providing a more targeted understanding of cash flow dynamics.
 
-9. Construction and Man Hours:
+10. Construction and Man Hours:
 Analyze construction projects and man-hour allocation. Visualize project timelines, and resource utilization, and optimize workforce allocation for enhanced project efficiency.
 
-10. Hollywood Market Analysis:
+11. Hollywood Market Analysis:
 Uncover trends in the Hollywood entertainment industry. Analyze box office performance, and audience preferences, and identify factors contributing to the success of movies.
 
 Usage Guidelines:
