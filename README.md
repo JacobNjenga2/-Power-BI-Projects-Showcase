@@ -23,8 +23,9 @@ Delve into customer retention strategies. Analyze customer churn rates, identify
 
 11. Construction and Man Hours:
 Analyze construction projects and man-hour allocation. Visualize project timelines, and resource utilization, and optimize workforce allocation for enhanced project efficiency.
+**https://app.powerbi.com/view?r=eyJrIjoiZGY4ZTM0NjMtNzg3YS00MDRkLTlhMWYtZTFhNTVkNGI1Njc4IiwidCI6IjU0NDdhOGRlLWE4OTctNGZlNS05ZjZhLTU2MTMxZjc0ZTZmMSJ9&pageName=ReportSectione731dedfe850c998e088**
 
-12. Hollywood Market Analysis:
+13. Hollywood Market Analysis:
 Uncover trends in the Hollywood entertainment industry. Analyze box office performance, and audience preferences, and identify factors contributing to the success of movies.
 
 Usage Guidelines:
