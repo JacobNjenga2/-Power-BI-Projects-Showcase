@@ -27,7 +27,7 @@ Analyze construction projects and man-hour allocation. Visualize project timelin
 
 13. Hollywood Market Analysis:
 Uncover trends in the Hollywood entertainment industry. Analyze box office performance, and audience preferences, and identify factors contributing to the success of movies.
-
+**https://app.powerbi.com/view?r=eyJrIjoiNTQyZDZiOGMtNGFmNC00NTllLWJlNTQtNDY4N2QzMzUzYTYzIiwidCI6IjU0NDdhOGRlLWE4OTctNGZlNS05ZjZhLTU2MTMxZjc0ZTZmMSJ9**
 Usage Guidelines:
 This repository is a comprehensive resource for data enthusiasts, analysts, and decision-makers seeking diverse insights across various domains. Each project is designed to be customizable, allowing users to adapt and apply the analysis to their specific needs.
 
