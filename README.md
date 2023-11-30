@@ -9,7 +9,7 @@ Dive into the world of aviation with comprehensive airport analysis. Uncover pat
 
 4. Global Health Expenditure:
 Gain insights into global health expenditure trends. Visualize spending patterns, analyze allocations across regions, and identify areas for potential improvement in healthcare financial management.
-
+**https://app.powerbi.com/view?r=eyJrIjoiODYyZTBkMGQtMTlhNC00ZTllLTgwMjEtNmU1MTMyNDA0OWZhIiwidCI6IjU0NDdhOGRlLWE4OTctNGZlNS05ZjZhLTU2MTMxZjc0ZTZmMSJ9**
 5. Cashflow Analysis:
 Navigate through the dynamics of cash flow in a business context. Utilize Power BI to create interactive dashboards, offering a real-time view of cash flow trends, and enabling informed financial decision-making.
 
