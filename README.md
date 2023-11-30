@@ -12,7 +12,7 @@ Gain insights into global health expenditure trends. Visualize spending patterns
 **https://app.powerbi.com/view?r=eyJrIjoiODYyZTBkMGQtMTlhNC00ZTllLTgwMjEtNmU1MTMyNDA0OWZhIiwidCI6IjU0NDdhOGRlLWE4OTctNGZlNS05ZjZhLTU2MTMxZjc0ZTZmMSJ9**
 5. Cashflow Analysis:
 Navigate through the dynamics of cash flow in a business context. Utilize Power BI to create interactive dashboards, offering a real-time view of cash flow trends, and enabling informed financial decision-making.
-
+**https://app.powerbi.com/view?r=eyJrIjoiZGVkYWQxY2YtYzc5YS00MThjLTg2Y2UtN2RiODM2NjRiNGViIiwidCI6IjU0NDdhOGRlLWE4OTctNGZlNS05ZjZhLTU2MTMxZjc0ZTZmMSJ9**
 6. Loan Application:
 Explore the loan application process, analyze approval rates, and rejection reasons, and optimize the workflow. Leverage Power BI to visualize and streamline the loan application journey.
 
